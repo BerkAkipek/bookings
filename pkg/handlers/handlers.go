@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/BerkAkipek/simple-web-app-go/pkg/config"
-	"github.com/BerkAkipek/simple-web-app-go/pkg/models"
-	"github.com/BerkAkipek/simple-web-app-go/pkg/render"
+	"github.com/BerkAkipek/bookings/pkg/config"
+	"github.com/BerkAkipek/bookings/pkg/models"
+	"github.com/BerkAkipek/bookings/pkg/render"
 )
 
 type Repository struct {

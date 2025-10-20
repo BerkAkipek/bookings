@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/BerkAkipek/simple-web-app-go/pkg/config"
-	"github.com/BerkAkipek/simple-web-app-go/pkg/handlers"
+	"github.com/BerkAkipek/bookings/pkg/config"
+	"github.com/BerkAkipek/bookings/pkg/handlers"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 )

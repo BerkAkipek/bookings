@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/BerkAkipek/simple-web-app-go/pkg/config"
-	"github.com/BerkAkipek/simple-web-app-go/pkg/models"
+	"github.com/BerkAkipek/bookings/pkg/config"
+	"github.com/BerkAkipek/bookings/pkg/models"
 )
 
 var app *config.AppConfig
